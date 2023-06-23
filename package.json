@@ -1,0 +1,17 @@
+{
+  "name": "ts52-using-test",
+  "version": "0.0.1",
+  "description": "playground for ts5.2 using",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src -d lib"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.22.5",
+    "@babel/core": "^7.22.5",
+    "@babel/plugin-proposal-explicit-resource-management": "^7.22.5",
+    "@babel/preset-env": "^7.22.5"
+  }
+}
