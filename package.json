@@ -13,5 +13,8 @@
     "@babel/core": "^7.22.5",
     "@babel/plugin-proposal-explicit-resource-management": "^7.22.5",
     "@babel/preset-env": "^7.22.5"
+  },
+  "dependencies": {
+    "disposablestack": "github:es-shims/DisposableStack"
   }
 }
